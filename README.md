@@ -87,7 +87,7 @@ I'm documenting my Python learning journey by uploading the concepts and practic
 | Day 01 | Data Types             | ✅ Completed |
 | Day 02 | Operators              | ✅ Completed |
 | Day 03 | Input & Output         | ✅ Completed |
-| Day 04 | Conditional Statements | 🔄 Learning |
+| Day 04 | Conditional Statements | ✅ Completed |
 | Day 05 | Loops                  |  ⏳ Upcoming |
 | Day 06 | Lists                  |  ⏳ Upcoming |
 | Day 07 | Tuples                 |  ⏳ Upcoming |
