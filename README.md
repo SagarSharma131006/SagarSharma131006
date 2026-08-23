@@ -88,7 +88,7 @@ I'm documenting my Python learning journey by uploading the concepts and practic
 | Day 02 | Operators              | ✅ Completed |
 | Day 03 | Input & Output         | ✅ Completed |
 | Day 04 | Conditional Statements | ✅ Completed |
-| Day 05 | Loops                  |  ⏳ Upcoming |
+| Day 05 | Loops                  | ✅ Completed |
 | Day 06 | Lists                  |  ⏳ Upcoming |
 | Day 07 | Tuples                 |  ⏳ Upcoming |
 | Day 08 | Sets                   |  ⏳ Upcoming |
