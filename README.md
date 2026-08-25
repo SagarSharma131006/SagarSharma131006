@@ -89,7 +89,7 @@ I'm documenting my Python learning journey by uploading the concepts and practic
 | Day 03 | Input & Output         | ✅ Completed |
 | Day 04 | Conditional Statements | ✅ Completed |
 | Day 05 | Loops                  | ✅ Completed |
-| Day 06 | Lists                  |  ⏳ Upcoming |
+| Day 06 | Lists                  | ✅ Completed |
 | Day 07 | Tuples                 |  ⏳ Upcoming |
 | Day 08 | Sets                   |  ⏳ Upcoming |
 | Day 09 | Dictionaries           |  ⏳ Upcoming |
