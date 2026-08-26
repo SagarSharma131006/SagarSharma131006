@@ -90,7 +90,7 @@ I'm documenting my Python learning journey by uploading the concepts and practic
 | Day 04 | Conditional Statements | ✅ Completed |
 | Day 05 | Loops                  | ✅ Completed |
 | Day 06 | Lists                  | ✅ Completed |
-| Day 07 | Tuples                 |  ⏳ Upcoming |
+| Day 07 | Tuples                 | ✅ Completed |
 | Day 08 | Sets                   |  ⏳ Upcoming |
 | Day 09 | Dictionaries           |  ⏳ Upcoming |
 | Day 10 | Functions              |  ⏳ Upcoming |
