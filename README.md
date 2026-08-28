@@ -92,7 +92,7 @@ I'm documenting my Python learning journey by uploading the concepts and practic
 | Day 06 | Lists                  | ✅ Completed |
 | Day 07 | Tuples                 | ✅ Completed |
 | Day 08 | Sets                   | ✅ Completed |
-| Day 09 | Dictionaries           |  ⏳ Upcoming |
+| Day 09 | Dictionaries           | ✅ Completed |
 | Day 10 | Functions              |  ⏳ Upcoming |
 
 <p align="center">
