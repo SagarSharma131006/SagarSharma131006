@@ -93,7 +93,7 @@ I'm documenting my Python learning journey by uploading the concepts and practic
 | Day 07 | Tuples                 | ✅ Completed |
 | Day 08 | Sets                   | ✅ Completed |
 | Day 09 | Dictionaries           | ✅ Completed |
-| Day 10 | Functions              |  ⏳ Upcoming |
+| Day 10 | Functions              | ✅ Completed |
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME/my-python-journey">
