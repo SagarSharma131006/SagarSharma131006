@@ -1,6 +1,5 @@
-# GitHub Profile README
+GitHub Profile README
 
-```html
 <h1 align="center">
   Hi, I'm <span style="color:#00F7FF;">Sagar Sharma</span> 👋
 </h1>
@@ -335,4 +334,3 @@ Deep learning project focused on classifying brain MRI images into four categori
 <p align="center">
   <strong>Learning consistently. Building practically. Improving every day.</strong>
 </p>
-```
