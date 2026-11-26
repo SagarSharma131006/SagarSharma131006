@@ -1,31 +1,34 @@
-GitHub Profile README
+# GitHub Profile README
 
+```html
 <h1 align="center">
   Hi, I'm <span style="color:#00F7FF;">Sagar Sharma</span> 👋
 </h1>
 
 <p align="center">
-  <strong>Future AI/ML Engineer</strong>
+  <strong>Aspiring AI/ML Engineer | Python Developer | CSE Student</strong>
 </p>
 
 <p align="center">
   <i>Learn • Build • Debug • Improve</i>
 </p>
+```
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a <strong>Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning</strong>, focused on building strong programming, data science, and machine learning fundamentals through consistent learning and hands-on projects.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning, passionate about building strong programming, data science, and machine learning fundamentals through consistent learning and hands-on projects.
 
 I enjoy solving problems, exploring new technologies, building projects, and continuously improving my technical skills.
 
 - 🎓 B.Tech CSE — AI & ML
 - 🐍 Python Enthusiast
 - 📊 Data Analysis & Visualization
-- 🤖 Machine Learning & AI
+- 🤖 Machine Learning & Artificial Intelligence
 - 💻 DSA & Problem Solving with C++
 - 🚀 Building projects and documenting my learning journey
+- 📚 Completed my 100-Day Python, Data Analysis & Machine Learning Journey
 
 ### ✨ My Philosophy
 
@@ -42,7 +45,7 @@ I enjoy solving problems, exploring new technologies, building projects, and con
 | 🐍 | 📊 | 🧠 | 💻 | 🤖 | ✨ |
 |---|---|---|---|---|---|
 | **Python** | **Data Analysis** | **Machine Learning** | **DSA** | **Deep Learning** | **Generative AI** |
-| 85/100 Learning Journey | 2 Projects Completed | ML Fundamentals & Algorithms | C++ Problem Solving | Upcoming | Future Learning |
+| 100-Day Journey Completed | 2 Projects | ML Projects Completed | C++ Problem Solving | Learning Next | Future Focus |
 
 </p>
 
@@ -83,11 +86,11 @@ I enjoy solving problems, exploring new technologies, building projects, and con
 
 # 🐍 My Python Learning Journey
 
-> **One day. One concept. One step forward.**
+> **100 Days of Learning. Countless Concepts. Real Projects. Continuous Growth.**
 
-I'm documenting my Python learning journey through hands-on coding, exercises, data analysis, machine learning, and practical projects.
+I completed my 100-day learning journey covering Python fundamentals, NumPy, Pandas, data visualization, data analysis, machine learning, model evaluation, clustering, pipelines, and practical ML projects.
 
-### 📈 Progress: 85 / 100 Days Completed
+### 📈 Progress: 100 / 100 Days Completed 🎉
 
 | Phase | Topics | Status |
 |---|---|---|
@@ -99,13 +102,13 @@ I'm documenting my Python learning journey through hands-on coding, exercises, d
 | Days 51–60 | Two Real-World Data Analysis Projects | ✅ Completed |
 | Days 61–70 | Machine Learning Fundamentals | ✅ Completed |
 | Days 71–80 | Supervised ML & Model Evaluation | ✅ Completed |
-| Days 81–85 | Pipelines, PCA & Clustering | ✅ Completed |
-| Days 86–90 | Advanced ML Practice & Mini Project | 🔄 In Progress |
-| Days 91–100 | Two Machine Learning Portfolio Projects | ⏳ Upcoming |
+| Days 81–90 | Pipelines, PCA, Clustering & ML Practice | ✅ Completed |
+| Days 91–95 | Loan Approval Prediction | ✅ Completed |
+| Days 96–100 | House Price Prediction | ✅ Completed |
 
 <p align="center">
   <a href="https://github.com/SagarSharma131006/My_Python_Journey">
-    <strong>🐍 Explore My Python Journey →</strong>
+    <strong>🐍 Explore My 100-Day Python Journey →</strong>
   </a>
 </p>
 
@@ -126,6 +129,14 @@ I'm documenting my Python learning journey through hands-on coding, exercises, d
 - Interactive dashboard using Streamlit and Plotly
 - Business insights and recommendations
 
+**Key Insights**
+- Analyzed 7,043 customers.
+- Identified 1,869 churned customers.
+- Overall churn rate: 26.54%.
+- Month-to-month contract customers showed higher churn.
+- Customers with shorter tenure were more likely to churn.
+- Electronic check users showed higher churn.
+
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Plotly
 
 ### 🚲 Project 2 — Bike Sharing Demand Analysis
@@ -142,13 +153,20 @@ I'm documenting my Python learning journey through hands-on coding, exercises, d
 - Six-chart dashboard
 - Business insights and actionable recommendations
 
+**Key Insights**
+- June recorded the highest average monthly demand.
+- January recorded the lowest average monthly demand.
+- 5 PM was the busiest hour.
+- Fall showed the strongest seasonal demand.
+- Registered users contributed 81.2% of total rentals.
+
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
 ---
 
-# 🤖 Machine Learning Progress
+# 🤖 Machine Learning
 
-Currently building a strong foundation in Machine Learning using Scikit-learn.
+Completed my Machine Learning foundation and practical learning phase using Scikit-learn, including model building, preprocessing, evaluation, and project implementation.
 
 ### Concepts & Skills Practiced
 
@@ -174,10 +192,83 @@ Currently building a strong foundation in Machine Learning using Scikit-learn.
 - DBSCAN Clustering
 - Hierarchical Clustering
 - Dendrogram Interpretation
+- Model Saving and Loading
+- ML Deployment Basics with Streamlit
 
 <p align="center">
   <a href="https://github.com/SagarSharma131006/My_Python_Journey">
     <strong>🤖 Explore My ML Learning Notebooks →</strong>
+  </a>
+</p>
+
+---
+
+# 🚀 Machine Learning Projects
+
+### 🏦 Project 3 — Loan Approval Prediction
+
+**Classification | Days 91–95**
+
+Developed a machine learning classification workflow to predict loan approval using applicant-related features.
+
+- Data preprocessing and missing value handling
+- Numerical feature scaling
+- Categorical feature encoding
+- Machine learning model training
+- Model comparison
+- Classification evaluation
+- Pipeline implementation
+- Model saving and loading
+- Prediction verification
+
+**Models Compared**
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+
+**Best Model:** Logistic Regression
+
+**Performance**
+- Accuracy: 86.18%
+- F1 Score: 90.81%
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Google Colab
+
+### 🏠 Project 4 — House Price Prediction
+
+**Regression | Days 96–100**
+
+Developed an end-to-end regression pipeline to predict house prices using the Ames Housing dataset.
+
+- Dataset exploration and preprocessing
+- Numerical and categorical feature handling
+- Missing value imputation
+- One-Hot Encoding
+- Pipeline and ColumnTransformer
+- Regression model training
+- Model comparison and evaluation
+- Random Forest model finalization
+- Model saving and loading
+- Prediction verification
+
+**Models Compared**
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+
+**Best Model:** Random Forest Regressor
+
+**Performance**
+- MAE: 17,394.56
+- RMSE: 28,396.30
+- R² Score: 89.49%
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Google Colab
+
+<p align="center">
+  <a href="https://github.com/SagarSharma131006/My_Python_Journey">
+    <strong>📂 Explore My Machine Learning Projects →</strong>
   </a>
 </p>
 
@@ -200,23 +291,21 @@ I'm also strengthening my problem-solving skills using **C++ and Data Structures
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🐍 My Python Journey
 
-A structured learning journey covering Python, Data Analysis, Visualization, Machine Learning, and hands-on practice.
+A completed 100-day learning journey covering Python, Data Analysis, Visualization, Machine Learning, and practical implementation.
 
 **Focus**
 
-`Python`
-`NumPy`
-`Pandas`
-`Scikit-learn`
+`Python` `NumPy` `Pandas` `Scikit-learn`
+
+<a href="https://github.com/SagarSharma131006/My_Python_Journey">View Repository →</a>
 
 </td>
 
@@ -228,17 +317,12 @@ An exploratory data analysis project focused on customer churn behavior, pattern
 
 **Built With**
 
-`Python`
-`Pandas`
-`Plotly`
-`Streamlit`
+`Python` `Pandas` `Plotly` `Streamlit`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🚲 Bike Sharing Demand Analysis
@@ -247,10 +331,33 @@ Analysis of bike rental demand across time, seasons, weather conditions, and use
 
 **Built With**
 
-`Python`
-`Pandas`
-`Seaborn`
-`Matplotlib`
+`Python` `Pandas` `Seaborn` `Matplotlib`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏦 Loan Approval Prediction
+
+A machine learning classification project comparing multiple models to predict loan approval and evaluate classification performance.
+
+**Built With**
+
+`Python` `Scikit-learn` `Pipelines` `Classification`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+
+A regression project using preprocessing pipelines and Random Forest to predict house prices and compare regression performance.
+
+**Built With**
+
+`Python` `Scikit-learn` `Random Forest` `Regression`
 
 </td>
 
@@ -262,13 +369,9 @@ Deep learning project focused on classifying brain MRI images into four categori
 
 **Focus**
 
-`Deep Learning`
-`CNN`
-`Transfer Learning`
-`Medical Imaging`
+`Deep Learning` `CNN` `Transfer Learning` `Medical Imaging`
 
 </td>
-
 </tr>
 </table>
 
@@ -283,12 +386,13 @@ Deep learning project focused on classifying brain MRI images into four categori
 - [x] Build Data Analysis Projects
 - [x] Learn Machine Learning Fundamentals
 - [x] Practice ML Model Training and Evaluation
-- [ ] Complete 100-Day Python Journey
+- [x] Complete 100-Day Python Journey
 - [ ] Strengthen DSA
-- [ ] Master Machine Learning
+- [ ] Deepen Machine Learning knowledge
 - [ ] Learn Deep Learning in depth
 - [ ] Build Real-World AI Projects
 - [ ] Learn LLMs & RAG
+- [ ] Explore AI Agents and Generative AI
 - [ ] Contribute to Open Source
 - [ ] Build a Strong AI/ML Portfolio
 - [ ] Get an AI/ML Internship
@@ -298,10 +402,11 @@ Deep learning project focused on classifying brain MRI images into four categori
 # 📌 Current Milestones
 
 <p align="center">
-  <strong>🐍 Python Journey — 85/100 Days</strong><br/>
+  <strong>🐍 Python Journey — 100/100 Days Completed 🎉</strong><br/>
   <strong>📊 Data Analysis — 2 Projects Completed</strong><br/>
-  <strong>🤖 Machine Learning — Fundamentals & Practical Learning in Progress</strong><br/>
-  <strong>💻 DSA — Consistent C++ Problem Solving</strong>
+  <strong>🤖 Machine Learning — Fundamentals Completed | 2 ML Projects Built</strong><br/>
+  <strong>💻 DSA — Ongoing C++ Problem Solving</strong><br/>
+  <strong>🧠 Deep Learning & Generative AI — Upcoming Focus</strong>
 </p>
 
 ---
@@ -332,5 +437,6 @@ Deep learning project focused on classifying brain MRI images into four categori
 </p>
 
 <p align="center">
-  <strong>Learning consistently. Building practically. Improving every day.</strong>
+  <strong>100 Days Completed. The Journey Continues.</strong>
 </p>
+```
