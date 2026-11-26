@@ -1,6 +1,6 @@
 # GitHub Profile README
 
-```html
+html
 <h1 align="center">
   Hi, I'm <span style="color:#00F7FF;">Sagar Sharma</span> 👋
 </h1>
@@ -12,7 +12,7 @@
 <p align="center">
   <i>Learn • Build • Debug • Improve</i>
 </p>
-```
+
 
 ---
 
