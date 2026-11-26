@@ -1,6 +1,3 @@
-# GitHub Profile README
-
-
 <h1 align="center">
   Hi, I'm <span style="color:#00F7FF;">Sagar Sharma</span> 👋
 </h1>
